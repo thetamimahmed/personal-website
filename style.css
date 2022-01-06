@@ -14,6 +14,7 @@ body{
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
+    padding-bottom: 150px;
 }
 .half-width{
     width: 40%;
@@ -48,4 +49,14 @@ h2{
 }
 p{
     line-height: 1.5;
+}
+.bio-head{
+    font-size: 40px;
+    font-weight: 400;
+}
+.bio-section{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 150px;
 }
