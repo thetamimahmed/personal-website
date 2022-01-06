@@ -77,3 +77,39 @@ p{
     font-weight: normal;
     margin-bottom: 80px;
 }
+.client-section{
+    text-align: center;
+    padding-bottom: 150px;
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 150px;
+}
+.msg-area{
+    background-image: linear-gradient( #ED4C67, #B53471);
+    width: 500px;
+    padding: 10px 0px;
+    margin: 0 auto;
+    border-radius: 10px;
+    color: white;
+}
+.client-sec-text{
+    width: 380px;
+    margin: 0px auto 50px;
+}
+h4{
+    font-weight: normal;
+    color: #504d4d;
+}
+h3{
+    font-weight: normal;
+    margin-bottom: -20px;
+}
+#text{
+    font-size: 40px;
+    margin-bottom: 100px;
+}
+footer p{
+    text-align: center;
+    color: gray;
+}
